@@ -1,0 +1,34 @@
+{
+  "weirdItems": [
+    {
+      "name" : "Mini USB Desktop Fridge Cooler Refrigerator",
+      "price" : 29.99,
+      "details" : "No driver needed. Will work on PC and Macintosh",
+      "image" : "mini-fridge.jpg"
+    },
+    {
+      "name" : "Dancing with Cats: From the Creators of the International Best Seller Why Cats Paint (Cat Books, Crazy Cat Lady Gifts, Gifts for Cat Lovers, Cat Photography)",
+      "price" : 6.89,
+      "details" : "The cult classic is back! This petite 15th anniversary hardcover reissue keeps all the original mystery and magic of cat dancing delightfully intact. Perpetually ahead of its time, Dancing with Cats presents scores of delightful and inspiring photographs of people and cats engaging in their favorite dance routines as well as moving testimonies of the personal transformations brought about through this uniquely joyous form of human-animal connection. Dancing with Cats will have a new generation of cat lovers (and their cats) jumping for joy—and cutting a rug—in no time.",
+      "image" : "dancing-cat.jpg"
+    },
+    {
+      "name" : "Fidget Toys, SnowCinda 3 PCS Squeeze-a-Bean Soybean Stress Relieving Keychain Mobile Chain Fidget, Green, 3Pack ",
+      "price" : 14.95,
+      "details" : "It's very simple to play whenever your fingers have nothing better to do. Simply squeeze those suckers right out of the pod as many times as you need to. The bean in the middle of the pod has a very cute facial expression.A great stress reliever and conversation starter.",
+      "image" : "soybean.jpg"
+    },
+    {
+      "name" : "Archie McPhee Handi Squirrel",
+      "price" : 8.05,
+      "details" : "Unless you're nuts, you'll realize that having a squirrel on the end of your arm is way more interesting, though less practical, than your boring old hand! This set of five soft vinyl finger puppets (four 2-3/4\" paws and a 1-3/4\" head) is perfect for climbing trees, getting barked at by dogs and burying food for the winter. Don't blame us if you find yourself breaking into a bird feeder Mission Impossible-style for a few sunflower seeds. Handisquirrels can be underhanded.",
+      "image" : "squirrel.jpg"
+    },
+    {
+      "name" : "Danny DeVito Life Size Cutout",
+      "price" : 69.97,
+      "details" : "At Celebrity-Cutouts we have an unbelievable range of Celebrities to suit every occasion. Our cutouts really enhance an event - to bring humour, as a practical joke or for photo-opportunities. And they make fantastic gifts for celebrity fans too.",
+      "image" : "danny.jpg"
+    }
+  ]
+}
